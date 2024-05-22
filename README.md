@@ -1,4 +1,4 @@
-# Temp File
+# Temp Files
 
 This tool is designed to temporarily upload a file and access it on another system.
 
